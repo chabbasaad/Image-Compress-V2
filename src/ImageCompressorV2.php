@@ -12,6 +12,12 @@ class ImageCompressorV2
  * @param int $quality The quality of the resized image (0-100).
  * @return bool
  */
+
+ public function Test()
+ {
+    echo "testing purpos";
+ }
+
  public function compress($source, $destination, $newWidth, $newHeight, $quality)
  {
  // Get image info
