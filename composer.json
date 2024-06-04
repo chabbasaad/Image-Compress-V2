@@ -1,0 +1,17 @@
+{
+    "name": "chabbav/image-compressor-v2",
+    "description": "simple image compressor for php class",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+    "psr-4": {
+    "ChabbaV\\ImageCompressorV2\\": "src/"
+    }
+    },
+    "authors": [
+    {
+    "name": "chabba saad"
+    }
+    ],
+    "require": {}
+   }
